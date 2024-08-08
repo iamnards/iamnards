@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamnards" alt="iamnards" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](nardsarroca.vercel.app)
+- 🔭 I’m currently working on [my portfolio]([nardsarroca.vercel.app](https://github.com/iamnards?tab=repositories))
 
 - 🌱 I’m currently learning **NextJS, TypeScript.**
 
-- 👨‍💻 All of my projects are available at [nardsarroca.vercel.app](nardsarroca.vercel.app)
+- 👨‍💻 All of my projects are available at [https://github.com/iamnards?tab=repositories](https://github.com/iamnards?tab=repositories)
 
 - 💬 Ask me about **MERN Stack**
 
